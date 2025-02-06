@@ -1,0 +1,1 @@
+This directories store GeoTIFF that have been Resampled to 10 meters and Index Caculated.

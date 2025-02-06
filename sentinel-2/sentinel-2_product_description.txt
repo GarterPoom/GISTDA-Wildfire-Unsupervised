@@ -1,0 +1,5 @@
+This directory is designated for storing Sentinel-2 products. Sentinel-2 is a satellite mission from the European Space Agency (ESA) that provides high-resolution optical imagery for land monitoring. The data stored here includes various products derived from Sentinel-2 satellite imagery, such as:
+
+- Level-2A: Bottom-of-atmosphere reflectances in cartographic geometry, including atmospheric correction and cloud screening.
+
+These products are essential for applications in agriculture, forestry, land cover classification, and disaster management, including wildfire monitoring and assessment.

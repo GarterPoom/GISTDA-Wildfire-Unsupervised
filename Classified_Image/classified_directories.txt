@@ -1,0 +1,1 @@
+This direcotires store Sentinel-2 .jp2 bands which contain Band 02, 03, 04, 05, 06, 07, 08, 8A, 11, 12.

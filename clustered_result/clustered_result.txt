@@ -1,0 +1,1 @@
+This direcotires store GeoTIFF of Clustered Results.
