@@ -52,4 +52,4 @@ Example: ```conda env create -f "D:\Sentinel-2 Environment\environment.yml"```
 This response is generated from the `Clustering_KMeans-Sentinel2.ipynb` notebook, which includes code for unsupervised learning using K-Means clustering. With K value is declared equal to 50 and number of Iteration is declared equal to 50.
 
 ## References
-- Andrew Cutts, Clustering_KMeans-Sentinel2: https://github.com/acgeospatial/Satellite_Imagery_Python/blob/master/Clustering_KMeans-Sentinel2.ipynb
+- Andrew Cutts, Satellite_Imagery_Python / Clustering_KMeans-Sentinel2: https://github.com/acgeospatial/Satellite_Imagery_Python/blob/master/Clustering_KMeans-Sentinel2.ipynb
