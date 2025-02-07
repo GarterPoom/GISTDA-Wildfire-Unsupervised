@@ -30,6 +30,12 @@
 
 ## Folder Structure:
 
-├── sentinel-2/                # Input folder with Sentinel-2 zip files
-├── Classified_Image/          # Extracted JP2 bands organized by granule
-├── Raster_Classified/         # Final processed images with spectral indices
+```python
+├── sentinel-2/                 # Input folder with Sentinel-2 zip files
+├── Classified_Image/           # Extracted JP2 bands organized by granule
+├── clustered_result/           # Directories to store clustered results as GeoTIFF
+├── Raster_Classified/          # Final processed images with spectral indices
+```
+
+## Unsupervised Learning
+This response is generated from the `Clustering_KMeans-Sentinel2.ipynb` notebook, which includes code for unsupervised learning using K-Means clustering. With K value is declared equal to 50 and number of Iteration is declared equal to 50. 
