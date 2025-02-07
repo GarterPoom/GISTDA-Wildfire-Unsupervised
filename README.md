@@ -1,5 +1,16 @@
 # GISTDA-Wildfire-Unsupervised
 
+## Prerequisites
+
+### Anaconda
+You need to download Anaconda at https://www.anaconda.com/download and install. And then you would need to create environment from environment.yml file on your computer.
+
+### Anaconda Environment Preparement
+Environment Prepare step:
+- Open Anaconda Terminal (Anaconda Prompt) on your computer after you installed.
+- use following command: ```conda env create -f /path/to/folder/environment.yml```
+Example: ```conda env create -f "D:\Sentinel-2 Environment\environment.yml"```
+
 ## Sentinel-2 Image Processing Pipeline
 
 ### Overview
